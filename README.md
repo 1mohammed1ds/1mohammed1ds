@@ -1,7 +1,7 @@
 ## Hi, I'm Mohammed  
 
-🎓 MSc student in Cybersecurity and Emerging Threats</br>
-🔬 Background in Forensic Science with a focus on digital investigation</br>  
+MSc student in Cybersecurity and Emerging Threats</br>
+Background in Forensic Science with a focus on digital investigation</br>  
 Building security and data-driven tools like CyberOpsHub</br> 
 Exploring automation, SOC dashboards, and privacy risk analytics</br> 
 
